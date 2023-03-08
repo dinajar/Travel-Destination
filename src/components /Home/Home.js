@@ -7,11 +7,11 @@ const data = require('../../data/db.json');
 
 function HomeFunction(){
     return(
-        <>
+        <div>
         <Header />
         <Tours Data ={data}/>
         <Footer />
-        </>
+        </div>
     )
 }
 export default HomeFunction;

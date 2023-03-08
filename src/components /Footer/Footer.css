@@ -12,10 +12,24 @@
     color: white;
 }
 
+
 #footer{
   display: flex;
   justify-content: center;
   
 
 }
-  
+.fa {
+  padding: 20px;
+  font-size: 10px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+#author{
+  display: flex;
+  justify-content: center;
+}
