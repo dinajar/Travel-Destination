@@ -1,7 +1,8 @@
-.fa-facebook {
-    background: #3B5998;
-    color: white;
-  }
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
   
 .fa-twitter {
     background: #55ACEE;
@@ -15,18 +16,19 @@
 
 #footer{
   display: flex;
-  justify-content: center;
+  justify-content: right;
   
 
 }
 .fa {
-  padding: 20px;
-  font-size: 10px;
-  width: 30px;
   text-align: center;
+  padding: 20px;
+  font-size: 7px;
+  width: 15px;
   text-decoration: none;
   margin: 5px 2px;
   border-radius: 50%;
+ 
 }
 
 #author{
